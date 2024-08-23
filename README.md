@@ -1,4 +1,4 @@
-[![MasterHead](https://complete-url-to-your-image.jpg)](https://rishavchanda.io)
+
 
 
 
