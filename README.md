@@ -11,7 +11,7 @@ Here’s the updated README with your LeetCode stats and all social media profil
 
 👨‍💻 All of my projects are available at https://github.com/srinjoy2004
 
-🏆 Team Lead & Backend Developer for Debuggersss, winners in panel at SIH Hackathon
+🏆 Team Lead & Backend Developer for Debuggersss, winners in panel at SIH Internal Hackathon
 
 📫 How to reach me srinjoypramanik2004@gmail.com
 
