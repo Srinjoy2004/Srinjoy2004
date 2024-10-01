@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Srinjoy Pramanik</h1> 
 <h3 align="center">A passionate backend developer from India</h3> 
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg?w=1380"> 
+<img align="right" alt="Coding" width="400" src="https://your-image-link/img-2.jpg">
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=srinjoy2004&label=Profile%20views&color=0e75b6&style=flat" alt="srinjoy2004" /> 
