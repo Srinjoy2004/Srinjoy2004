@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinjoy Pramanik</h1> 
 <h3 align="center">A passionate backend developer from India</h3> 
 
-<img align="right" alt="Coding" width="400" src="https://your-image-link/img-2.jpg">
+<img align="right" alt="Coding" width="400" src="./img 2.jpg">
 
 
 <p align="left"> 
