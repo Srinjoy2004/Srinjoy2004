@@ -19,7 +19,7 @@
 📫 How to reach me srinjoypramanik2004@gmail.com
 
 🚀 **Highlighted Project:**  
-Check out my [HACK SYNTHESIS 2024 project](https://github.com/Srinjoy2004/HACK-SYNTHESIS-2024), which focuses on [brief description of the project, e.g., a unique solution developed during the Hackathon].
+Check out my [HACK SYNTHESIS 2024 project](https://github.com/Srinjoy2004/HACK-SYNTHESIS-2024), which focuses on bridging the communication gap between the hard-of-hearing and hearing communities by translating Indian Sign Language (ISL) into real-time text and speech..
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
