@@ -86,10 +86,14 @@ Check out my [HACK SYNTHESIS 2024 project](https://github.com/Srinjoy2004/HACK-S
   </a>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats & Most Used Languages Side by Side -->
 <h3 align="left">📊 GitHub Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srinjoy2004&show_icons=true&locale=en" alt="srinjoy2004" /></p>
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=srinjoy2004&show_icons=true&locale=en" alt="srinjoy2004" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinjoy2004&show_icons=true&locale=en&layout=compact" alt="srinjoy2004" /></td>
+  </tr>
+</table>
 
-<!-- Most Used Languages -->
-<h3 align="left">💻 Most Used Languages</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinjoy2004&show_icons=true&locale=en&layout=compact" alt="srinjoy2004" /></p>
+<!-- GitHub Streak Stats -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinjoy2004&" alt="srinjoy2004" /></p>
