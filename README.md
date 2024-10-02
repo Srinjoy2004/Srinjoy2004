@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="./img 2.jpg">
 
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=srinjoy2004&label=Profile%20views&color=0e75b6&style=flat" alt="srinjoy2004" /> 
 </p>
@@ -19,7 +18,7 @@
 📫 How to reach me srinjoypramanik2004@gmail.com
 
 🚀 **Highlighted Project:**  
-Check out my [HACK SYNTHESIS 2024 project](https://github.com/Srinjoy2004/HACK-SYNTHESIS-2024), which focuses on bridging the communication gap between the hard-of-hearing and hearing communities by translating Indian Sign Language (ISL) into real-time text and speech..
+Check out my [HACK SYNTHESIS 2024 project](https://github.com/Srinjoy2004/HACK-SYNTHESIS-2024), which focuses on bridging the communication gap between the hard-of-hearing and hearing communities by translating Indian Sign Language (ISL) into real-time text and speech.
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
@@ -79,6 +78,18 @@ Check out my [HACK SYNTHESIS 2024 project](https://github.com/Srinjoy2004/HACK-S
   </a> 
 </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinjoy2004&show_icons=true&locale=en&layout=compact" alt="srinjoy2004" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinjoy2004&show_icons=true&locale=en" alt="srinjoy2004" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinjoy2004&" alt="srinjoy2004" /></p>
+<!-- GitHub Trophies -->
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=srinjoy2004&theme=onestar&no-frame=true&no-bg=true" alt="srinjoy2004" />
+  </a>
+</p>
+
+<!-- GitHub Stats -->
+<h3 align="left">📊 GitHub Stats</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srinjoy2004&show_icons=true&locale=en" alt="srinjoy2004" /></p>
+
+<!-- Most Used Languages -->
+<h3 align="left">💻 Most Used Languages</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinjoy2004&show_icons=true&locale=en&layout=compact" alt="srinjoy2004" /></p>
