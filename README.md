@@ -6,9 +6,7 @@
 
 <h3 align="center">Empowering Communication with Technology</h3>
 
-
-
-<img align="right" alt="Coding" width="400" height="150" src="https://github.com/srinjoy2004/srinjoy2004/blob/main/Neural.gif">
+<img align="right" alt="Backend Development" width="400" height="300" src="img 2.jpg">
 
 - 🔭 I’m currently working on **Shabdh.ai** — A platform for translating Indian Sign Language (ISL) into text and speech  
 - 🌱 I’m currently learning **NodeJs**  
@@ -17,6 +15,9 @@
 - 📫 How to reach me: <a href="mailto:srinjoypramanik2004@gmail.com"><img src="https://img.shields.io/badge/srinjoypramanik2004%40gmail.com-red?logo=gmail&logoColor=white" alt="Gmail Badge" /></a>  
 - 🚀 **Highlighted Project:**  
 Check out my [HACK SYNTHESIS 2024](https://github.com/Srinjoy2004/HACK-SYNTHESIS-2024) project, focusing on bridging the communication gap between the hard-of-hearing and hearing communities by translating Indian Sign Language (ISL) into real-time text and speech.
+
+---
+
 
 ---
 
