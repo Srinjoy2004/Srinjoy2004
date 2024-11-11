@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on **Shabdh.ai** — A platform for translating Indian Sign Language (ISL) into text and speech  
 - 🌱 I’m currently learning **NodeJs**  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/srinjoy2004)  
-- 🏆 **Team Lead & Backend Developer** for Debuggersss, winners in panel at SIH Internal Hackathon  
 - 📫 How to reach me: <a href="mailto:srinjoypramanik2004@gmail.com"><img src="https://img.shields.io/badge/srinjoypramanik2004%40gmail.com-red?logo=gmail&logoColor=white" alt="Gmail Badge" /></a>  
 - 🚀 **Highlighted Project:**  
 Check out my [HACK SYNTHESIS 2024](https://github.com/Srinjoy2004/HACK-SYNTHESIS-2024) project, focusing on bridging the communication gap between the hard-of-hearing and hearing communities by translating Indian Sign Language (ISL) into real-time text and speech.
