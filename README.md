@@ -9,14 +9,23 @@
 <img align="right" alt="Backend Development" width="400" height="300" src="img 2.jpg">
 
 ## 🚀 About Me  
-- 🔭 Worked on **Shabdh.ai** (ISL to text & speech translation) and **Fake Shield** (AI-based fake image detection).  
-- ⚡ Currently developing **BrainWee**, an AI-powered early brain tumor detection system.  
-- 🌱 Exploring **Node.js** and backend development.  
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/srinjoy2004).  
-- 📫 Reach me at:  
-  <a href="mailto:srinjoypramanik2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-srinjoypramanik2004%40gmail.com-red?logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>  
+
+🔭 Worked on projects like Shabdh.ai (ISL to text & speech translation), Fake Shield (AI-based fake image detection), BrainWee (AI-powered early brain tumor detection), AgriSmart.ai (AI-driven agricultural solutions), CardioSense.ai (AI-based cardiovascular disease prediction), and SikshaSathi (an educational aid platform).
+
+🏆 Finalist & Top 10 in the Smart Bengal Hackathon (SBH), reaching the final round.
+
+🏅 Finalist & Top 10 at Double Slash 3.0 for the Fake Shield project.
+
+⚡ Currently exploring Node.js and backend development to expand my tech stack.
+
+💡 Passionate about applying AI and technology for impactful, real-world solutions.
+
+👨‍💻 Check out my projects on GitHub.
+
+📫 Reach me at:
+<a href="mailto:srinjoypramanik2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-srinjoypramanik2004%40gmail.com-red?logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
 ---
 
 
