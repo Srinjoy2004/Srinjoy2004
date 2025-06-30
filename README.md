@@ -12,7 +12,9 @@
 
 🔭 Worked on projects like Shabdh.ai (ISL to text & speech translation), Fake Shield (AI-based fake image detection), BrainWee (AI-powered early brain tumor detection), AgriSmart.ai (AI-driven agricultural solutions), CardioSense.ai (AI-based cardiovascular disease prediction), and SikshaSathi (an educational aid platform).
 
-🏆 Finalist & Top 10 in the Smart Bengal Hackathon (SBH), reaching the final round.
+🏆 Winner of Hack4Bengal 2k25, delivering innovative AI-driven solutions.
+
+🥇 Finalist & Top 10 in the Smart Bengal Hackathon (SBH), reaching the final round.
 
 🏅 Finalist & Top 10 at Double Slash 3.0 for the Fake Shield project.
 
