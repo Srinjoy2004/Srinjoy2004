@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 
-🔭 Worked on projects like Shabdh.ai (ISL to text & speech translation), Fake Shield (AI-based fake image detection), BrainWee (AI-powered early brain tumor detection), AgriSmart.ai (AI-driven agricultural solutions), CardioSense.ai (AI-based cardiovascular disease prediction), and SikshaSathi (an educational aid platform).
+🔭 Worked on projects like Shabdh.ai (ISL to text & speech translation), Fake Shield (AI-based fake image detection), BrainWee (AI-powered early brain tumor detection), AgriSmart.ai (AI-driven agricultural solutions), CardioSense.ai (AI-based cardiovascular disease prediction), SikshaSathi (an educational aid platform), KrishiConnect (IoT-based precision farming with on-device ML and a voice-enabled chatbot), and Annapurna Shield (AI-powered grain spoilage prediction and waste repurposing system using IoT sensors and time-series forecasting).
 
 🏆 Winner of Hack4Bengal 2k25, delivering innovative AI-driven solutions.
 
